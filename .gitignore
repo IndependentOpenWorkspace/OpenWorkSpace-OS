@@ -7,7 +7,7 @@ cubic-project/
 *.log
 *.tmp
 
-# Themes & extensions (local copies only)
+# Temporary folders
 themes/temp/
 icons/temp/
 extensions/temp/
