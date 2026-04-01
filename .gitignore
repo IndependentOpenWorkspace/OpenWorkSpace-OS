@@ -1,0 +1,15 @@
+# Build artifacts
+*.iso
+*.squashfs
+build-root/
+cubic-project/
+*.deb
+*.log
+*.tmp
+
+#temporary files (we only use open source parts)
+/temp/
+
+# General
+.DS_Store
+Thumbs.db
