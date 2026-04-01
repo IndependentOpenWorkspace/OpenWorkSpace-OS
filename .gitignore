@@ -7,8 +7,10 @@ cubic-project/
 *.log
 *.tmp
 
-#temporary files (we only use open source parts)
-/temp/
+# Themes & extensions (local copies only)
+themes/temp/
+icons/temp/
+extensions/temp/
 
 # General
 .DS_Store
